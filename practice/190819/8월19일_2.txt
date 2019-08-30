@@ -1,0 +1,8 @@
+수업시간에 다뤄본 예제는 신라스테이의 댓글중에서 첫 페이지의 댓글 리스트이다.
+https://www.agoda.com/ko-kr/shilla-stay-seocho/hotel/seoul-kr.html?cid=-204
+
+모든 댓글을 5개 링크 댓글을 3 개 페이지(1페이지~15페이지)만큼 스크래핑하고 벡터로 만들어서 hotel.txt 에 
+텍스트 형식으로 저장한다.
+
+R 소스명 : hotel.R
+생성 텍스트 파일명 : hotel.txt
