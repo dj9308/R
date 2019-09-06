@@ -20,3 +20,6 @@ data<-dbReadTable(conn,"IRIS")
 ggplot(data,aes(x=SLENGTH,y=SWIDTH))+geom_point(aes(group=SPECIES,colour=SPECIES))
 #db2
 ggplot(data,aes(x=PLENGTH,y=PWIDTH))+geom_point(aes(group=SPECIES,colour=SPECIES))
+
+map7 <- NULL
+map7<-leaflet(korpopmap3) %>% setView(lat=37.52711, lng=126.987517, zoom=12) %>% addTiles() 
