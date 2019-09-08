@@ -12,4 +12,4 @@
 
 - rvest를 이용한 크롤링 [링크](https://github.com/dj9308/R/blob/master/lecture/day5.R) 
   [예제 1]([https://github.com/dj9308/R/blob/master/practice/190816/8%EC%9B%9416%EC%9D%BC.txt](https://github.com/dj9308/R/blob/master/practice/190816/8월16일.txt)) [풀이](https://github.com/dj9308/R/blob/master/practice/190816/movie2.R) 
-  [예제 2]([https://github.com/dj9308/R/blob/master/practice/190816/8%EC%9B%9416%EC%9D%BC_2.docx](https://github.com/dj9308/R/blob/master/practice/190816/8월16일_2.docx)) [풀이]()
+  [예제 2]([https://github.com/dj9308/R/blob/master/practice/190816/8%EC%9B%9416%EC%9D%BC_2.docx](https://github.com/dj9308/R/blob/master/practice/190816/8월16일_2.docx)) [풀이]([https://github.com/dj9308/R/blob/master/practice/190816/8%EC%9B%9416%EC%9D%BC_2.docx](https://github.com/dj9308/R/blob/master/practice/190816/8월16일_2.docx))
